@@ -1,5 +1,5 @@
 ## udemy_course
 ##  git and git hub
 
-name: zahraa ahmed
+* name: zahraa ahmed
 note: vitask
